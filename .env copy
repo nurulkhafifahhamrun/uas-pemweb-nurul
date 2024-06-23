@@ -1,0 +1,13 @@
+SECRET_KEY=django-insecure-)npdfx(rim0jh&c&)2kmpi8u%w-3m+ic=w_tc*0%x229@^w&-q
+
+DEBUG=True
+ALLOWED_HOSTS=.localhost, .my-kelompok-9.my.id, .103.175.221.60
+
+
+#setting database
+DB_ENGINE=django.db.backends.mysql
+DB_NAME=pemweb
+DB_USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
